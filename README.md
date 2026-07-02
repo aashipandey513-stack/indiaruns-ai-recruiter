@@ -95,4 +95,4 @@ This system is optimized for high-speed CPU inference. It processes candidates i
 * **Explainability:** 100% deterministic scoring. Zero hallucination risk. The dynamic string generator outputs a clear, logic-based sentence for every candidate in the `reasoning` column based on their specific semantic score and triggered heuristic multipliers.
 
 ---
-*Engineered by Aashi Pandey | Solo Participant*
+*Engineered by Aashi Pandey | Solo Participant| Team: HACKALONE*
