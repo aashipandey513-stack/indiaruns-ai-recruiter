@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0061265,1,0.8675,Exceptional fit. Recommendation Systems Engineer with strong semantic alignment to modern ML systems. High availability (1.2x behavioral modifier).
+CAND_0065195,2,0.8443,Exceptional fit. Search Engineer with strong semantic alignment to modern ML systems. High availability (1.2x behavioral modifier).
+CAND_0000031,3,0.8424,Exceptional fit. Recommendation Systems Engineer with strong semantic alignment to modern ML systems. High availability (1.2x behavioral modifier).
+CAND_0037160,4,0.8418,Exceptional fit. Data Scientist with strong semantic alignment to modern ML systems. High availability (1.2x behavioral modifier).
+CAND_0061339,5,0.8380,Exceptional fit. Search Engineer with strong semantic alignment to modern ML systems. High availability (1.2x behavioral modifier).
+CAND_0018549,6,0.8377,Exceptional fit. Recommendation Systems Engineer with strong semantic alignment to modern ML systems. High availability (1.2x behavioral modifier).
+CAND_0013536,7,0.8339,Exceptional fit. Applied ML Engineer with strong semantic alignment to modern ML systems. High availability (1.2x behavioral modifier).
+CAND_0011162,8,0.8328,Exceptional fit. Recommendation Systems Engineer with strong semantic alignment to modern ML systems. High availability (1.2x behavioral modifier).
+CAND_0001218,9,0.8274,Exceptional fit. AI Specialist with strong semantic alignment to modern ML systems. High availability (1.2x behavioral modifier).
+CAND_0023587,10,0.8217,Exceptional fit. ML Engineer with strong semantic alignment to modern ML systems. High availability (1.2x behavioral modifier).
+CAND_0044262,11,0.8212,Strong candidate. Data Scientist showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0006538,12,0.8186,Strong candidate. AI Specialist showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0036184,13,0.8185,Strong candidate. Recommendation Systems Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0079387,14,0.8154,Strong candidate. AI Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0047542,15,0.8137,Strong candidate. Senior Software Engineer (ML) showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0022812,16,0.8131,Strong candidate. Applied ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0075249,17,0.8123,Strong candidate. Applied ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0030784,18,0.8111,Strong candidate. Data Scientist showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0055992,19,0.8069,Strong candidate. AI Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0079284,20,0.8055,Strong candidate. Machine Learning Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0018722,21,0.8039,Strong candidate. Recommendation Systems Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0038099,22,0.8038,Strong candidate. Junior ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0043381,23,0.8022,Strong candidate. AI Research Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0033749,24,0.8020,Strong candidate. Computer Vision Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0096209,25,0.8015,Strong candidate. ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0051615,26,0.7997,Strong candidate. Search Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0082489,27,0.7988,Strong candidate. ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0049538,28,0.7987,Strong candidate. Applied ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0086893,29,0.7979,Strong candidate. ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0047521,30,0.7950,Strong candidate. Junior ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0004972,31,0.7947,Strong candidate. ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0014909,32,0.7942,Strong candidate. Computer Vision Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0050454,33,0.7940,Strong candidate. AI Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0045250,34,0.7932,Strong candidate. Applied ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0087744,35,0.7922,Strong candidate. Senior Software Engineer (ML) showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0018653,36,0.7921,Strong candidate. ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0019480,37,0.7918,Strong candidate. NLP Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0064270,38,0.7916,Strong candidate. Applied ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0021410,39,0.7911,Strong candidate. Junior ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0052328,40,0.7910,Strong candidate. Recommendation Systems Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0035879,41,0.7907,Strong candidate. AI Research Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0007596,42,0.7896,Strong candidate. Junior ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0092706,43,0.7892,Strong candidate. AI Research Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0002120,44,0.7884,Strong candidate. ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0011687,45,0.7849,Strong candidate. Senior NLP Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0079176,46,0.7841,Strong candidate. AI Specialist showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0031752,47,0.7832,Strong candidate. ML Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0087316,48,0.7827,Strong candidate. AI Research Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0039838,49,0.7822,Strong candidate. Recommendation Systems Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0060054,50,0.7811,Strong candidate. AI Engineer showing solid retrieval/ranking experience. Passed all consulting and title heuristic checks.
+CAND_0038656,51,0.7801,"Good foundational skills as a ML Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0041669,52,0.7800,"Good foundational skills as a Recommendation Systems Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0057563,53,0.7800,"Good foundational skills as a NLP Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0099806,54,0.7787,"Good foundational skills as a AI Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0008295,55,0.7767,"Good foundational skills as a AI Research Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0069905,56,0.7766,"Good foundational skills as a Applied ML Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0030031,57,0.7763,"Good foundational skills as a AI Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0044883,58,0.7752,"Good foundational skills as a AI Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0082314,59,0.7750,"Good foundational skills as a Junior ML Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0054829,60,0.7731,"Good foundational skills as a Computer Vision Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0033179,61,0.7725,"Good foundational skills as a AI Research Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0068932,62,0.7712,"Good foundational skills as a ML Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0085335,63,0.7707,"Good foundational skills as a ML Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0032527,64,0.7702,"Good foundational skills as a Junior ML Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0061696,65,0.7678,"Good foundational skills as a Senior Software Engineer (ML), but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0092714,66,0.7675,"Good foundational skills as a Senior Software Engineer (ML), but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0020708,67,0.7672,"Good foundational skills as a Search Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0007391,68,0.7671,"Good foundational skills as a Data Scientist, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0008517,69,0.7669,"Good foundational skills as a AI Research Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0067866,70,0.7663,"Good foundational skills as a Senior Software Engineer (ML), but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0074225,71,0.7661,"Good foundational skills as a Machine Learning Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0036437,72,0.7658,"Good foundational skills as a Search Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0052682,73,0.7655,"Good foundational skills as a NLP Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0091534,74,0.7641,"Good foundational skills as a AI Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0010770,75,0.7622,"Good foundational skills as a Recommendation Systems Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0062247,76,0.7621,"Good foundational skills as a AI Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0028527,77,0.7614,"Good foundational skills as a AI Specialist, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0056058,78,0.7613,"Good foundational skills as a Junior ML Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0081686,79,0.7608,"Good foundational skills as a Search Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0052744,80,0.7597,"Good foundational skills as a Senior Software Engineer (ML), but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0012840,81,0.7595,"Good foundational skills as a Junior ML Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0038821,82,0.7585,"Good foundational skills as a AI Specialist, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0060303,83,0.7585,"Good foundational skills as a AI Research Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0049771,84,0.7580,"Good foundational skills as a AI Research Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0043860,85,0.7575,"Good foundational skills as a Junior ML Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0017960,86,0.7572,"Good foundational skills as a Recommendation Systems Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0043304,87,0.7571,"Good foundational skills as a Junior ML Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0064904,88,0.7561,"Good foundational skills as a AI Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0061655,89,0.7553,"Good foundational skills as a Machine Learning Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0033911,90,0.7545,"Good foundational skills as a Data Scientist, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0073007,91,0.7545,"Good foundational skills as a AI Specialist, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0044890,92,0.7544,"Good foundational skills as a AI Research Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0012837,93,0.7530,"Good foundational skills as a Junior ML Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0084819,94,0.7510,"Good foundational skills as a Search Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0072547,95,0.7504,"Good foundational skills as a Senior Software Engineer (ML), but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0010685,96,0.7478,"Good foundational skills as a NLP Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0094056,97,0.7474,"Good foundational skills as a NLP Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0076163,98,0.7469,"Good foundational skills as a NLP Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0005303,99,0.7465,"Good foundational skills as a Junior ML Engineer, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."
+CAND_0010257,100,0.7464,"Good foundational skills as a Senior Data Scientist, but semantic match is slightly weaker than top tier. Placed lower in shortlist but viable."

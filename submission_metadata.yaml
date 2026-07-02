@@ -1,0 +1,67 @@
+# Redrob Hackathon — Submission Metadata Template
+#
+# Copy this file to your repo root as `submission_metadata.yaml` and fill it in.
+# The fields here should match what you submit via the portal at upload time.
+# Stage 3 review uses this file to verify your portal metadata.
+
+# ============================================================================
+# Team identity
+# ============================================================================
+team_name: "HACKALONE"
+
+primary_contact:
+  name: "Aashi Pandey"
+  email: "aashipandey513@gmail.com"
+  phone: "+91-7678452559"
+
+team_members:
+  - name: "Aashi Pandey"
+    email: "aashipandey513@gmail.com"
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/YOUR_USERNAME/indiaruns-ai-recruiter"
+
+sandbox_link: "https://huggingface.co/spaces/aashipandey513-stack/indiaruns-ai-recruiter"
+
+reproduce_command: "python src/generate_submission.py"
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+compute:
+  platform: "GitHub Codespaces"
+  cpu_cores: 4
+  ram_gb: 16
+  python_version: "3.10"
+  os: "Ubuntu 22.04 LTS"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: false
+  pre_computation_time_minutes: 0
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+ai_tools_used:
+  - "Gemini"
+
+ai_usage_summary: |
+  Used Gemini for architectural discussion, refining the deterministic business logic rules, and debugging Python data-processing constraints to ensure the ranking engine runs within the strict 5-minute CPU limit. No candidate data was fed to any LLM during the actual ranking process.
+
+# ============================================================================
+# Approach summary (optional but recommended)
+# ============================================================================
+methodology_summary: |
+  Hybrid AI ranking system using Sentence-Transformer embeddings (all-MiniLM-L6-v2) for semantic job-candidate matching. A post-processing deterministic Python rules engine applies strict heuristic multipliers (e.g., penalizing consulting-only history and irrelevant non-engineering job titles) to enforce high-signal hiring quality as defined by the JD. A behavioral multiplier derived from Recruiter Response Rate adjusts scores to favor truly available candidates. Optimized for batched CPU inference, achieving end-to-end ranking for 100K profiles in under 5 minutes.
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true
