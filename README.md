@@ -17,6 +17,15 @@ Instead of relying on fragile string-matching or slow, hallucination-prone gener
 
 ---
 
+## 🌐 The Sandbox Experience
+To provide full transparency into our ranking logic, we deployed a live Sandbox on Hugging Face Spaces.
+* **Why we built it:** To demonstrate that our heuristic-based scoring is both explainable and deterministic.
+* **What it does:** Users can input a Job Description and instantly see how the engine ranks the candidate pool, including:
+    * **Semantic Scores:** Showing how "Engineering Context" is derived from vector similarity.
+    * **Heuristic Multipliers:** Real-time visibility into how "Consulting Traps" or "Behavioral Boosts" adjust the final ranking.
+
+---
+
 ## 🏗️ System Architecture
 
 ### Phase 1: Semantic Embedding (The "Brain")
