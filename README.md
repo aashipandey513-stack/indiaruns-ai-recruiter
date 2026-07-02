@@ -93,6 +93,6 @@ This system is optimized for high-speed CPU inference. It processes candidates i
 * **Throughput:** ~100,000 profiles processed in under 5 minutes.
 * **Compute:** 100% Local CPU processing (No external API latency, rate limits, or GPU requirement).
 * **Explainability:** 100% deterministic scoring. Zero hallucination risk. The dynamic string generator outputs a clear, logic-based sentence for every candidate in the `reasoning` column based on their specific semantic score and triggered heuristic multipliers.
-
+* **Hardware Scaling Note:** This engine is heavily optimized for parallel CPU execution. While execution time scales based on available cores (e.g., ~12-15 minutes on a restricted 2-core cloud environment), it is designed to clear the 100K dataset in under 5 minutes on the hackathon's target 8-core / 16GB RAM benchmark hardware.
 ---
 *Engineered by Aashi Pandey | Solo Participant| Team: HACKALONE*
